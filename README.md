@@ -19,11 +19,12 @@
 Computer Systems Engineering student, passionate about programming in Java and Python. Strong focus on problem-solving and delivering quality projects, even under pressure. Self-taught learner with a keen interest in teamwork. I am committed to continuous learning and always looking for opportunities to grow professionally and personally.
 
 - 🔭 I'm currently learning new programming languages, improving to become the best at what I do, and looking for things to do or create, as well as delving deeper into software development.
-- 🌱 I'm learning: Web development (HTML, CSS, JavaScript). 
+- 🌱 I'm learning: Web development (HTML, CSS, JavaScript) and basic network configuration and support (Cisco-based).
 - 👯 I'm looking to collaborate on software development projects that solve real-world problems or anything related to technology and creativity, exploring innovative ideas and building impactful solutions.
 - 📫 How to reach me: l22070107@valladolid.tecnm.mx or akukulkan0007@gmail.com
-- ✅ Ask me about anything, I am happy to help:)
+- ✅ Ask me about anything, I am happy to help :)
 - ⚡ Fun fact: I LOVE TREES 🌳
+
 
 <br clear="right"/>
 
