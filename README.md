@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm JosiasDenis12 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=6F36D1&center=true&vCenter=true&random=false&width=600&lines=Software+Developer;Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=6F36D1&center=true&vCenter=true&random=false&width=600&lines=Cisco+Networking+Practitioner;Software+Developer;Enthusiast;Lifelong+Learner" alt="Typing SVG" />
   
   <br>
   
